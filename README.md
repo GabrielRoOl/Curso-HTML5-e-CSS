@@ -12,7 +12,7 @@ Este repositório servirá como um diário de bordo digital, documentando os des
 
 ## Como Você Pode me Ajudar
 
-Se você tem experiência em HTML5 e CSS3 e gostaria de apoiar o desenvolvimento contínuo deste aluno:
+Se você tem experiência em HTML5 e CSS3 e gostaria de apoiar o desenvolvimento contínuo:
 
 1. Revise o código e forneça feedback construtivo.
 2. Sugira recursos educacionais adicionais.
