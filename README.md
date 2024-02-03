@@ -23,3 +23,4 @@ Se você tem experiência em HTML5 e CSS3 e gostaria de apoiar o desenvolvimento
 Este repositório é um espaço de aprendizado aberto e está licenciado. A colaboração é incentivada, e o objetivo final é criar uma comunidade de aprendizado inclusiva.
 
 Agradeço por ser parte da jornada!
+[Exemplo](https://github.com/GabrielRoOl/Curso-HTML5-e-CSS3/blob/main/Exercicios/Modulo1/ex008/index.html)
