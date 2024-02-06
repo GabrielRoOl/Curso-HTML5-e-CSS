@@ -4,11 +4,18 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="shortcut icon" href="favicon_io.zip" type="image/x-icon">
-    <title>Imagens Dinâmicas</title>
+    <title>Mídias em HTML5</title>
 
 </head>
 <body>
-    <h1></h1>
-    <p></p>
+    <h1>Imagens dinâmicas</h1>
+    <p>Tente abrir esse site em vários dispositivos diferentes, ou apenas aumente e diminua o tamanho do navegados.</p>
+
+    <picture>
+        <source media="(max-width: 724px)" srcset="imagens/foto_300.png" type="image/png">
+        <source media="(max-width: 1025px)" srcset="imagens/foto_700.png" type="image/png">
+
+        <img src="imagens/foto_1000.png" alt="Imagem flexivel">
+    </picture>
 </body>
 </html>

@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Imagens Flexiveis</title>
+</head>
+<body>
+    <h1>Imagens Flexiveis</h1>
+    <p>Conseque identificar o que tem nessa imagem? <br>Se não, diminua o tamanho do seu navegador</p>
+    <picture>
+        <source media="(max-width: 500px)" srcset="imagens/Cobras/cobra_340.jpg" type="image/jpg">
+        <source media="(max-width: 668px)" srcset="imagens/Cobras/cobra_640.jpg" type="image/jpg">
+        <source media="(max-width: 1305px)" srcset="imagens/Cobras/cobra_1280.jpg" type="image/jpg">
+        <source media="(max-width: 1200px)" srcset="imagens/Cobras/cobra_1920.jpg" type="image/jpg">
+        <img src="imagens/Cobras/cobra_2870.jpg" alt="Imagem Flexiveis">
+    </picture>
+    
+</body>
+</html>
