@@ -1,14 +1,29 @@
-body{
-    font-family: Arial, Helvetica, sans-serif;
-    text-align: center;
+*{ /* Configurações globais das CSS */
+    font-family:  'Times New Roman', Times, serif;
 }
-p{
-    text-align: justify;
+main{
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px rgba(44, 57, 58, 0.603);
+    width: 500px;
+    padding: 5px;
+    margin: auto;
+}
+body{
+    background-image: linear-gradient(135deg, #72F2EB 20%,#0FC2C0, #0CABA8, #008F8C);
+    background-attachment: fixed;
+    
 }
 h1{
-    background-color: blue;
-    color: white;
+    color: #1B7F79;
+    text-align: center;
+    text-shadow: 1px 2px 3px rgb(121, 103, 103);
 }
 h2{
-    background-color: rgb(0, 0, 255)
+    color: #00CCC0;
+    text-shadow: 1px 1px 1px rgb(121, 103, 103);
+}
+p{
+    color: rgb(0, 0, 0);
+    text-align: justify;
 }
