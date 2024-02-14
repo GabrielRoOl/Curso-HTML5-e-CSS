@@ -1,0 +1,25 @@
+
+body{
+    background-color: black;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+h1{
+    background-color: #2392cf;
+    height: 33px;
+    width: auto;
+    border-width: 10px;
+    border-style: solid;
+    border-color: darkblue;
+    padding-top: 6px;
+    padding-left: 6px;
+    padding-bottom: 6px;
+    padding-right: 6px;
+}
+a{
+    border-width: 3px;
+    border-style: double;
+    border-color: rgb(255 255 255);
+    
+}
