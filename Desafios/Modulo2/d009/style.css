@@ -7,20 +7,43 @@ body{
     main{
         color: white;
         background-image: linear-gradient(to bottom, rgb(90, 223, 90), rgb(45, 121, 45), rgb(7, 70, 7));
-        padding: 5px;
+        padding: 7px;
         box-shadow: 0px 2px 5px black;
+        
+        div{
+            display: inline-block;
+        }
+
+        .apresentação{
+            text-align: center;
+        }
 
         h1{
             text-align: center;
             text-shadow:  1px 1px 1px black;
         }
         p{
-            text-align: center;
+            text-align: justify;
+            text-indent: 25px;
         }
     }
-    h2{
-        background-color: white;
-        
-        width: 500px;
+    main#corpo{
+        padding: 10px;
+        background-image: linear-gradient(to bottom, white, white);
+        color: black;
+        width: 845px;
+    }
+    .titulo_h3{
+        background-image: linear-gradient(45deg,  rgba(163, 253, 163, 0.795), white );
+    }
+    .android{
+        text-align: center;
+    }
+    .video{
+        background-color: rgb(7, 70, 7);
+        padding-top: 50px;
+        padding-bottom: 50px;
+        padding-left: 30px;
+        padding-right: 30px;
     }
 }

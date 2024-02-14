@@ -9,12 +9,17 @@ body{
     
 }
 h1, h2, p{
-    text-align: center;
-    width: 500px;
+    width: 600px;
     background-color: white;
     box-shadow: 5px 5px 5px rgba(44, 57, 58, 0.603);
 }
+h1{
+    text-align: center;
+}
 h2{
     width: 300px;
+    
 }
-
+p{
+    text-indent: 30px;
+}
