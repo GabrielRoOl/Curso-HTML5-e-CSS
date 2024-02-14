@@ -6,20 +6,37 @@ body{
     color: white;
 }
 h1{
+
     background-color: #2392cf;
-    height: 33px;
-    width: auto;
+    height: 300px;
+    width: 300px;
+
     border-width: 10px;
-    border-style: solid;
+    border-style: solid;        /* dorder: width style color; */
     border-color: darkblue;
+
     padding-top: 6px;
     padding-left: 6px;
-    padding-bottom: 6px;
+    padding-bottom: 6px;        /* padding: top right bottom letf; */
     padding-right: 6px;
+
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: auto;          /* margin: top right bottom letf; */
+    margin-right: auto;
+
+    
+
+    outline-width:  10px;
+    outline-style: dashed;      /* outline: whidth style color; */
+    outline-color: #2392cf;
+    
 }
 a{
+
     border-width: 3px;
     border-style: double;
     border-color: rgb(255 255 255);
     
+
 }
